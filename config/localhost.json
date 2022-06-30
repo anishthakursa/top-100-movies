@@ -1,0 +1,14 @@
+{
+    "APP_URL": "http://localhost:3002/",
+    "FRONTEND_URL": "",
+    "APP_NAME" : "Movie Dev",
+    "mongo_password" : "FLUrjJ7R0KtJNdgD",
+    "PORT": 3002,
+    "key":"WinterIsComing",
+    "mongoURI": "mongodb+srv://anish:I8gGJoe8FxRgqB68@cluster0.nh7fd.mongodb.net/test",
+    "dbName": "movie-dev",
+    "JWT"   :{
+        "SECRET":"6dcc80c4cc5b3daa1483ae96fb449235",
+        "TOKENTIME":"365 days"
+    }
+}
